@@ -46,6 +46,15 @@ Technical Debt - refers to the consequences of making suboptimal engineering dec
 
 Tight deadlines - Causes compromised quality, increases stress and burn out, decreased morale and team satisfaction.
 
+Some of the strategies to overcome stated challenges include:
+Effective communication and collaboration.
+Continuous learning and software development.
+Robust testing and quality assurance.
+Agile development methodology.
+Time management and prioritization.
+Problem solving and critical thinking.
+Version control and collaboration.
+
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit testing - Involves testing individual components of software
 Integration testing - Involves testing interactions between different components or sub-systems
@@ -58,7 +67,7 @@ Software Testing is an important phase in the software development life cycle th
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the art of crafting effective prompts to elicit desired responses from artificial intelligence AI models.
+Prompt engineering is the art of crafting effective prompts to elicit desired responses from artificial intelligence models.
 Its importances include:
 Task completion - Clear and concise prompts can help AI models understand the task at hand and generate outputs that fulfill specific requirements.
 Accurate and relevant responses - Well-crafted prompts can significantly improve the accuracy and relevance of AI-generated responses, ensuring that the model provides information that is useful and informative.
@@ -67,6 +76,6 @@ Creativity and innovation - By experimenting with different prompt formats and s
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague prompt: What is climate change?
-Specific prompt: Define climate change, its impact on the environment and atmosphere, how humans have contributed to it & it's cause and possible remedies.
+Specific prompt: Define climate change, its impact on the environment and atmosphere, how humans have contributed to it & it's effects and possible remedies.
 
-The more clearly defined the prompt is the more relevant, efficient and accurate the response is from the (AI). The same applies in vice versa.
+The more clearly defined the prompt the more relevant, efficient and accurate the response is from the (AI). The same applies in vice versa.
